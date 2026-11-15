@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+    <Includes>
+
+            <!-- Structures -->
+        <Include type="all" source="Neutral/Structures/BaseOreNode.xml"/>
+        <Include type="all" source="Neutral/Structures/OreNode.xml"/>
+
+        <!-- Units-->
+         <Include type="all" source="Neutral/Units/BaseMiner.xml"/>
+        
+        
+    </Includes>
+</AssetDeclaration>

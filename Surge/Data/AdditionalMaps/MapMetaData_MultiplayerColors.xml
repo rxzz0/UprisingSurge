@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+
+	<!-- Slot 0 -->
+	<MultiplayerColor id="ColorGold">
+		<RGBColor				R="240" G="215" B="25" A="255" />
+		<RGBNightColor			R="240" G="215" B="25" A="255" />
+		<TooltipName>Color:Gold</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 1 -->
+	<MultiplayerColor id="ColorRed">
+		<RGBColor				R="230" G="20" B="20" A="255" />
+		<RGBNightColor			R="230" G="20" B="20" A="255" />
+		<TooltipName>Color:Red</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 2 -->
+	<MultiplayerColor id="ColorBlue">
+		<RGBColor				R="50" G="75" B="200" A="255" />
+		<RGBNightColor			R="50" G="75" B="200" A="255" />
+		<TooltipName>Color:Blue</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 3 -->
+	<MultiplayerColor id="ColorGreen">
+		<RGBColor				R="20" G="105" B="60" A="255" />
+		<RGBNightColor			R="20" G="105" B="60" A="255" />
+		<TooltipName>Color:Green</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 4 -->
+	<MultiplayerColor id="ColorOrange">
+		<RGBColor				R="225" G="115" B="20" A="255" />
+		<RGBNightColor			R="225" G="115" B="20" A="255" />
+		<TooltipName>Color:Orange</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 5 -->
+	<MultiplayerColor id="ColorSkyBlue">
+		<RGBColor				R="102" G="207" B="248" A="255" />
+		<RGBNightColor			R="102" G="207" B="248" A="255" />
+		<TooltipName>Color:SkyBlue</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 6 -->
+	<MultiplayerColor id="ColorPurple">
+		<RGBColor				R="125" G="25" B="200" A="255" />
+		<RGBNightColor			R="125" G="25" B="200" A="255" />
+		<TooltipName>Color:Purple</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+	
+	<!-- Slot 7 -->
+	<MultiplayerColor id="ColorViolet">
+		<RGBColor				R="238" G="130" B="238" A="255" />
+		<RGBNightColor			R="238" G="130" B="238" A="255" />
+		<TooltipName>Color:Violet</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 8 -->
+	<MultiplayerColor id="ColorPink">
+		<RGBColor				R="255" G="20" B="147" A="255" />
+		<RGBNightColor			R="255" G="20" B="147" A="255" />
+		<TooltipName>Color:Pink</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+	
+	<!-- Slot 9 -->
+	<MultiplayerColor id="ColorChartreuse">
+		<RGBColor				R="127" G="255" B="0" A="255" />
+		<RGBNightColor			R="127" G="255" B="0" A="255" />
+		<TooltipName>Color:Chartreuse</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+	
+	<!-- Slot 10
+	<MultiplayerColor id="ColorDeepSkyBlue">
+		<RGBColor				R="0" G="191" B="255" A="255" />
+		<RGBNightColor			R="0" G="191" B="255" A="255" />
+		<TooltipName>Color:DeepSkyBlue</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor> -->
+	
+	<!-- Slot 11 -->
+	<MultiplayerColor id="ColorBurgundy">
+		<RGBColor				R="125" G="1" B="1" A="255" />
+		<RGBNightColor			R="125" G="1" B="1" A="255" />
+		<TooltipName>Color:Burgundy</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 12 -->
+	<MultiplayerColor id="ColorYellow">
+		<RGBColor				R="166" G="208" B="13" A="255" />
+		<RGBNightColor			R="166" G="208" B="13" A="255" />
+		<TooltipName>Color:Yellow</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 13 -->
+	<MultiplayerColor id="ColorDarkGreen">
+		<RGBColor				R="16" G="76" B="41" A="255" />
+		<RGBNightColor			R="16" G="76" B="41" A="255" />
+		<TooltipName>Color:DarkGreen</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 14 -->
+	<MultiplayerColor id="ColorXPBlue">
+		<RGBColor				R="0" G="84" B="227" A="255" />
+		<RGBNightColor			R="0" G="84" B="227" A="255" />
+		<TooltipName>Color:XPBlue</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 15 -->
+	<MultiplayerColor id="ColorBrown">
+		<RGBColor				R="128" G="64" B="0" A="255" />
+		<RGBNightColor			R="128" G="64" B="0" A="255" />
+		<TooltipName>Color:Brown</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 16 -->
+	<MultiplayerColor id="ColorSaturnGreen">
+		<RGBColor				R="0" G="128" B="128" A="255" />
+		<RGBNightColor			R="0" G="128" B="128" A="255" />
+		<TooltipName>Color:SaturnGreen</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 17 -->
+	<MultiplayerColor id="ColorOliveGreen">
+		<RGBColor				R="139" G="161" B="105" A="255" />
+		<RGBNightColor			R="139" G="161" B="105" A="255" />
+		<TooltipName>Color:OliveGreen</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 18 -->
+	<MultiplayerColor id="ColorSilver">
+		<RGBColor				R="192" G="192" B="192" A="255" />
+		<RGBNightColor			R="192" G="192" B="192" A="255" />
+		<TooltipName>Color:Silver</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+	
+	<!-- Slot 19 -->
+	<MultiplayerColor id="ColorWhite">
+		<RGBColor				R="255" G="255" B="255" A="255" />
+		<RGBNightColor			R="255" G="255" B="255" A="255" />
+		<TooltipName>Color:White</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+	
+	<!-- Slot 20 -->
+	<MultiplayerColor id="ColorBlack">
+		<RGBColor				R="0" G="0" B="0" A="255" />
+		<RGBNightColor			R="0" G="0" B="0" A="255" />
+		<TooltipName>Color:Black</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+		<!-- Slot 21 -->
+	<MultiplayerColor id="ColorHotMagenta">
+		<RGBColor				R="255" G="0" B="200" A="255" />
+		<RGBNightColor			R="255" G="0" B="200" A="255" />
+		<TooltipName>Color:HotMagenta</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 22 -->
+	<MultiplayerColor id="ColorToxicGreen">
+		<RGBColor				R="173" G="255" B="47" A="255" />
+		<RGBNightColor			R="173" G="255" B="47" A="255" />
+		<TooltipName>Color:ToxicGreen</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 23 -->
+	<MultiplayerColor id="ColorLavaOrange">
+		<RGBColor				R="255" G="69" B="0" A="255" />
+		<RGBNightColor			R="255" G="69" B="0" A="255" />
+		<TooltipName>Color:LavaOrange</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 24
+	<MultiplayerColor id="ColorElectricTeal">
+		<RGBColor				R="0" G="255" B="255" A="255" />
+		<RGBNightColor			R="0" G="255" B="255" A="255" />
+		<TooltipName>Color:ElectricTeal</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>-->
+
+	<!-- Slot 25 -->
+	<MultiplayerColor id="ColorBubblegum">
+		<RGBColor				R="255" G="153" B="204" A="255" />
+		<RGBNightColor			R="255" G="153" B="204" A="255" />
+		<TooltipName>Color:Bubblegum</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+	<!-- Slot 26 -->
+	<MultiplayerColor id="ColorCyberYellow">
+		<RGBColor				R="255" G="211" B="0" A="255" />
+		<RGBNightColor			R="255" G="211" B="0" A="255" />
+		<TooltipName>Color:CyberYellow</TooltipName>
+		<AvailableInMetaGame>true</AvailableInMetaGame>
+	</MultiplayerColor>
+
+</AssetDeclaration>

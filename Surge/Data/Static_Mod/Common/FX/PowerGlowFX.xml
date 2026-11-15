@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+	<FXParticleSystemTemplate id="SovietPowerGlow1"
+	                          Priority="MEDIUM_OR_ABOVE"
+	                          Type="GPU_PARTICLE"
+	                          ParticleTexture="FXLenzflareHDR01"
+	                          SortLevel="1">
+		<SlavePosOffset x="0"
+		                y="0"
+		                z="0"/>
+		<Lifetime Low="15"
+		          High="15"/>
+		<Size Low="70"
+		      High="70"/>
+		<StartSizeRate Type="CONSTANT"/>
+		<BurstDelay Low="15"
+		            High="15"/>
+		<BurstCount Low="1"
+		            High="1"/>
+		<InitialDelay Type="CONSTANT"/>
+		<Colors>
+			<Color Frame="1">
+				<Color r="0.251"
+				       g="0.502"
+				       b="1"/>
+			</Color>
+			<Color RelativeAge="10%"
+			       Frame="2">
+				<Color r="0.2588"
+				       g="0.4824"
+				       b="0.949"/>
+			</Color>
+			<Color RelativeAge="100%"
+			       Frame="3">
+				<Color r="0.251"
+				       g="0.502"
+				       b="1"/>
+			</Color>
+			<ColorScale Low="2"
+			            High="2"/>
+		</Colors>
+		<Physics>
+			<Default>
+				<VelocityDamping Low="0.99"
+				                 High="1"/>
+			</Default>
+		</Physics>
+		<Draw>
+			<Gpu RandTex="1"
+			     GeometryType="CENTERED_QUAD"
+			     SortParticles="True"/>
+		</Draw>
+		<Volume>
+			<Cylinder>
+				<Offset x="10"
+				        y="-4"
+				        z="-1.5"/>
+			</Cylinder>
+		</Volume>
+		<Velocity/>
+		<Update>
+			<Default>
+				<SizeRate Type="CONSTANT"/>
+				<SizeRateDamping Low="1"
+				                 High="1"/>
+				<AngleZ Low="1"
+				        High="3"/>
+				<AngularRateZ Low="-0.1"
+				              High="0.1"/>
+				<AngularDamping Low="0.95"
+				                High="0.97"/>
+				<AngleXY Type="CONSTANT"/>
+				<AngularRateXY Type="CONSTANT"/>
+				<AngularDampingXY Low="1"
+				                  High="1"/>
+			</Default>
+		</Update>
+	</FXParticleSystemTemplate>
+	<FXParticleSystemTemplate id="SovietPowerGlow2"
+	                          Priority="MEDIUM_OR_ABOVE"
+	                          Type="GPU_PARTICLE"
+	                          ParticleTexture="FXLenzflareHDR01"
+	                          SortLevel="1">
+		<SlavePosOffset x="0"
+		                y="0"
+		                z="0"/>
+		<Lifetime Low="15"
+		          High="15"/>
+		<Size Low="70"
+		      High="70"/>
+		<StartSizeRate Type="CONSTANT"/>
+		<BurstDelay Low="15"
+		            High="15"/>
+		<BurstCount Low="1"
+		            High="1"/>
+		<InitialDelay Type="CONSTANT"/>
+		<Colors>
+			<Color Frame="1">
+				<Color r="0.251"
+				       g="0.502"
+				       b="1"/>
+			</Color>
+			<Color RelativeAge="10%"
+			       Frame="2">
+				<Color r="0.2588"
+				       g="0.4824"
+				       b="0.949"/>
+			</Color>
+			<Color RelativeAge="100%"
+			       Frame="3">
+				<Color r="0.251"
+				       g="0.502"
+				       b="1"/>
+			</Color>
+			<ColorScale Low="2"
+			            High="2"/>
+		</Colors>
+		<Physics>
+			<Default>
+				<VelocityDamping Low="0.99"
+				                 High="1"/>
+			</Default>
+		</Physics>
+		<Draw>
+			<Gpu RandTex="1"
+			     GeometryType="CENTERED_QUAD"
+			     SortParticles="True"/>
+		</Draw>
+		<Volume>
+			<Cylinder>
+				<Offset x="10"
+				        y="4"
+				        z="-1.5"/>
+			</Cylinder>
+		</Volume>
+		<Velocity/>
+		<Update>
+			<Default>
+				<SizeRate Type="CONSTANT"/>
+				<SizeRateDamping Low="1"
+				                 High="1"/>
+				<AngleZ Low="1"
+				        High="3"/>
+				<AngularRateZ Low="-0.1"
+				              High="0.1"/>
+				<AngularDamping Low="0.95"
+				                High="0.97"/>
+				<AngleXY Type="CONSTANT"/>
+				<AngularRateXY Type="CONSTANT"/>
+				<AngularDampingXY Low="1"
+				                  High="1"/>
+			</Default>
+		</Update>
+	</FXParticleSystemTemplate>
+</AssetDeclaration>

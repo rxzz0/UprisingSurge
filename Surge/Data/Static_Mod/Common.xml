@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+    <Includes>
+     <Include type="all" source="Common/LogicCommand_Mod.xml"/>
+     <Include type="all" source="Common/LogicCommandSet_Mod.xml"/>
+     <Include type="all" source="Common/Upgrade.xml"/>
+     <Include type="all" source="Common/FX/PowerGlowFX.xml"/>
+    </Includes>
+</AssetDeclaration>

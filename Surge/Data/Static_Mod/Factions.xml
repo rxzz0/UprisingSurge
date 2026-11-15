@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+    <Includes>
+     <Include type="all" source="Factions/Allied.xml"/>
+     <Include type="all" source="Factions/Neutral.xml"/>
+     <Include type="all" source="Factions/Soviet.xml"/>
+     <Include type="all" source="Factions/Japan.xml"/>
+    </Includes>
+</AssetDeclaration>

@@ -1,0 +1,21 @@
+Name:AlliedPowerPlantTurbine
+		"Advanced Turbines"
+	End
+
+Desc:AlliedPowerPlantTurbine
+		"FutureTech engineered these next-gen turbines to push efficiency to the absolute limit."
+	End
+
+
+
+HOTKEYNAME:SIDEBARBUTTONSLOT13
+	"Slot 13"
+End
+
+HOTKEYNAME:SIDEBARBUTTONSLOT14
+	"Slot 14"
+End
+
+HOTKEYNAME:SIDEBARBUTTONSLOT15
+	"Slot 15"
+End

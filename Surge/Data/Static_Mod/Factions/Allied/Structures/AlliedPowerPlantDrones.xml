@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xai="uri:ea.com:eala:asset:instance">
+	<Tags></Tags>
+	<Includes>
+		<Include
+			type="instance"
+			source="AlliedPowerPlantDroneObject.xml" />
+		<Include
+			type="all"
+			source="DATA:GlobalData/GlobalDefines.xml" />
+	</Includes>
+	<GameObject
+		id="AlliedPowerPlantDrone"
+		inheritFrom="AlliedPowerPlantDrone"
+		EditorName="AlliedPowerPlantDrones"
+		EnergyProduction="100"
+		Description="Desc:AlliedPowerPlantDrone">
+		<Behaviors>
+			<AttachUpdate
+				id="ModuleTag_Attach"
+				xai:joinAction="Append"
+				Range="=$REPAIR_DRONE_LEASH_DISTANCE"
+				InitialAttachDelay="2.0s">
+			</AttachUpdate>
+
+			<PassiveAreaEffectBehavior
+                id="ModuleTag_PassiveAreaEffect"
+                xai:joinAction="Remove" />    
+            <AttachUpdate
+                id="ModuleTag_Attach"
+                xai:joinAction="Remove" />
+		</Behaviors>
+	</GameObject>
+</AssetDeclaration>
