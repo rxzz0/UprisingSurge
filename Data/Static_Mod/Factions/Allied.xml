@@ -5,8 +5,8 @@
             <!-- Structures -->
         <Include type="all" source="Allied/Structures/AlliedCrane.xml"/>
         <Include type="all" source="Allied/Structures/AlliedPowerPlant.xml"/>
-        <Include type="all" source="Allied/Structures/AlliedPowerPlantDroneObject.xml"/>
-        <Include type="all" source="Allied/Structures/AlliedPowerPlantDrones.xml"/>
+        <!--<Include type="all" source="Allied/Structures/AlliedPowerPlantDroneObject.xml"/>
+        <Include type="all" source="Allied/Structures/AlliedPowerPlantDrones.xml"/>-->
     
         
         <!-- Units -->

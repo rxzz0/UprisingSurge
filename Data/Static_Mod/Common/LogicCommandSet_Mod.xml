@@ -357,7 +357,8 @@
 		<Cmd>Command_ConstructSovietBaseDefenseAdvanced</Cmd>		
 		<Cmd>Command_ConstructSovietSuperWeapon</Cmd>
 		<Cmd>Command_ConstructSovietSuperWeaponAdvanced</Cmd>	
-		<Cmd>Command_ConstructSovietCrane</Cmd>	
+		<Cmd>Command_ConstructSovietCrane</Cmd>
+		<Cmd>Command_ConstructSovietBunkerConYard</Cmd>
 		<Cmd>Command_PackSovietMCV</Cmd>
 <!--
 		<Cmd>Command_UpgradeSovietCrane</Cmd>
@@ -410,7 +411,8 @@
 		<Cmd>Command_ConstructSovietBaseDefenseAir</Cmd>
 		<Cmd>Command_ConstructSovietBaseDefenseAdvanced</Cmd>		
 		<Cmd>Command_ConstructSovietSuperWeapon</Cmd>
-		<Cmd>Command_ConstructSovietSuperWeaponAdvanced</Cmd>	
+		<Cmd>Command_ConstructSovietSuperWeaponAdvanced</Cmd>
+			
 	</LogicCommandSet>
 
 	<LogicCommandSet

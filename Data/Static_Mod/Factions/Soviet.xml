@@ -3,8 +3,7 @@
     <Includes>
 
             <!-- Structures -->
-     
-    
+    <Include type="all" source="Soviet/Structures/SovietBunker.xml"/>
         
         <!-- Units -->
          <Include type="all" source="Soviet/Units/SovietMiner.xml"/>
