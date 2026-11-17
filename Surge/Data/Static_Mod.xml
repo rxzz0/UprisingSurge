@@ -11,6 +11,7 @@
         
      <Include type="all" source="Static_Mod/Factions.xml"/>
      <Include type="all" source="Static_Mod/Common.xml"/>
+
     </Includes>
 
 </AssetDeclaration>

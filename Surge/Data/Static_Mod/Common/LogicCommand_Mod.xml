@@ -1117,6 +1117,12 @@
 		id="Command_ConstructSovietPowerPlantAdvanced">
 		<Object>SovietPowerPlantAdvanced</Object>
 	</LogicCommand>	
+
+	<LogicCommand
+		Type="CONSTRUCTION_YARD_CONSTRUCT"
+		id="Command_ConstructSovietBunkerConYard">
+		<Object>SovietBunker</Object>
+	</LogicCommand>
 	<LogicCommand
 		Type="CONSTRUCTION_YARD_CONSTRUCT"
 		id="Command_ConstructSovietRefinery">
@@ -1491,8 +1497,8 @@
 		Type="SPECIAL_POWER"
 		id="Command_ConstructSovietBunker">
 		<SpecialPower>SpecialPower_ConstructSovietBunker</SpecialPower>
-	</LogicCommand>	
-		
+</LogicCommand>
+
 	<LogicCommand
 		Type="SPECIAL_POWER"
 		id="Command_ToggleMolotovCocktailSpecialPower">
