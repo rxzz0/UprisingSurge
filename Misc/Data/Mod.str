@@ -1,0 +1,105 @@
+Name:AlliedPowerPlantTurbine
+		"Advanced Turbines"
+	End
+
+Desc:AlliedPowerPlantTurbine
+		"FutureTech engineered these next-gen turbines to push efficiency to the absolute limit."
+	End
+
+
+
+HOTKEYNAME:SIDEBARBUTTONSLOT13
+	"Slot 13"
+End
+
+HOTKEYNAME:SIDEBARBUTTONSLOT14
+	"Slot 14"
+End
+
+HOTKEYNAME:SIDEBARBUTTONSLOT15
+	"Slot 15"
+End
+
+Personality:KraussEasiest
+"Krauss x1"
+END
+
+Personality:KraussEasier
+"Krauss x2"
+END
+
+Personality:KraussEasy
+"Krauss x3"
+END
+
+Personality:KraussMedium
+"Krauss x6"
+END
+
+Personality:KraussHard
+"Krauss x9"
+END
+
+Personality:KraussBrutal
+"Krauss x12"
+END
+
+Personality:AlliedInvasion
+"Allied Invasion"
+END
+
+Personality:GideonEasiest
+"Gideon x1"
+END
+
+Personality:GideonEasier
+"Gideon x2"
+END
+
+Personality:GideonEasy
+"Gideon x3"
+END
+
+Personality:GideonMedium
+"Gideon x6"
+END
+
+Personality:GideonHard
+"Gideon x9"
+END
+
+Personality:GideonBrutal
+"Gideon x12"
+END
+
+Personality:SovietInvasion
+"Soviet Invasion"
+END
+
+Personality:RoninEasiest
+"Ronin x1"
+END
+
+Personality:RoninEasier
+"Ronin x2"
+END
+
+Personality:RoninEasy
+"Ronin x3"
+END
+
+Personality:RoninMedium
+"Ronin x6"
+END
+
+Personality:RoninHard
+"Ronin x9"
+END
+
+Personality:RoninBrutal
+"Ronin x12"
+END
+
+Personality:JapanInvasion
+"Japan Invasion"
+END
